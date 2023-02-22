@@ -1,0 +1,13 @@
+First, I have to say that it is sometimes painful to update newer versions of Esri software for your work.
+
+I have been working on rewriting the web GIS apps from ArcGIS Javascript API version 3 to version 4. It is kind of completely rewritten since there are dramatic changes between versions 3 and 4. It took me about 6 months to finish the WDI app (https://www3.twdb.texas.gov/apps/waterdatainteractive/groundwaterdataviewer).
+
+As for the ArcGIS Server Web Services, if the ArcGIS server in your work place got updated from version 8. X to 10.9.1, migrating the services could be changeling too.
+
+I found an arcticle from Esri website hepful if you also need to migrate services from ArcMap to the ArcGIS Pro service runtime (https://enterprise.arcgis.com/en/server/10.9.1/publish-services/windows/migrating-services-to-the-arcgis-pro-service-runtime.htm).
+
+I put all the knowlege that I learned from upgrading the ArcGIS Server Web Services on ArcGIS Server 10.9.1 (Windows) here.
+
+Enjoy learning and work hard!
+
+= Yang Cao (Programmer, Software Architect, Dog Groomer)
