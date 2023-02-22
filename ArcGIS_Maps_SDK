@@ -1,0 +1,7 @@
+I have been using ArcGIS API for JavaScript since 2015. It is a very good GIS libary for the developers to implement GIS elements and mapping functions during the Web GIS app develepment.
+
+Esri now changes the name of "ArcGIS API for JavaScript" to "ArcGIS Maps SDK for JavaScript".
+
+I used the ArcGIS JavaScript API 3 version at the beginning, and now I am starting to use ArcGIS JavaScript API 4.X version. There are dramatricilly changes between 3.X and 4.X versions.
+
+I put what I have been leanring in ArcGIS Maps SDK for JavaScript 4.X in this project folder.
